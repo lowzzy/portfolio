@@ -6,7 +6,7 @@ import { stripTags, domHtml } from '../../../utils/stripTags';
 import SEO from '../../Seo';
 
 const pageText = {
-  paraOne: `Hello !! My name is Rolwin Reevan Monteiro. I'm a full stack web developer who is
+  paraOne: `Hello !! My name is lowzzy. I'm a full stack web developer who is
     passionate about various web technologies. I like to experiment with different web
     technologies. I have an experience of nearly 3 years working with LAMP stack, MERN stack
     and ELK stack. Building fancy UI's just like this one that your seeing 😅 and writing blogs about tech stacks
@@ -27,7 +27,7 @@ const AboutMe = () => {
           title="About"
           description={description}
           path=""
-          keywords={['Rolwin', 'Reevan', 'Monteiro', 'FullStack developer', 'Javascript', 'ReactJS', 'NodeJS', 'Gatsby']}
+          keywords={['lowzzy', 'Michiro', 'Narazaki', '楢﨑', '楢崎', '道朗', '道郎', 'みちろう', 'ならざき', 'ならさき', 'みちろー', 'ろうじ', 'ろうじー']}
         />
         <h1 className="titleSeparate">About Me</h1>
         <p>
